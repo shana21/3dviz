@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dviz-master", "3dviz-master.csproj", "{42502BFD-3AE2-B984-0D02-87E83B6C3042}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dviz-master.Editor", "3dviz-master.Editor.csproj", "{13C7A810-F499-A581-9064-A61698824DB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42502BFD-3AE2-B984-0D02-87E83B6C3042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42502BFD-3AE2-B984-0D02-87E83B6C3042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42502BFD-3AE2-B984-0D02-87E83B6C3042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42502BFD-3AE2-B984-0D02-87E83B6C3042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C7A810-F499-A581-9064-A61698824DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C7A810-F499-A581-9064-A61698824DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C7A810-F499-A581-9064-A61698824DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C7A810-F499-A581-9064-A61698824DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
